@@ -1,5 +1,5 @@
 # TugasPratikumML_234-244
-# Klasifikasi ALzheimer's Berdasarkan Hasil MRI Menggunakan Convolutional Neural Networks
+# Klasifikasi Alzheimer's Berdasarkan Hasil MRI Menggunakan Convolutional Neural Networks
 
 ### Team:
 + Andhika Dwija Bagaskara_201810370311234
@@ -25,7 +25,7 @@ Dataset yang digunakan merupakan dataset citra MRI dengan judul "Alzheimer's Dat
 + Numpy
 
 ### Status Project
-1. Preprocessing: Complete
-2. Model 1: In Progress
-3. Model 2: In Progress
-4. Augmentasi: On Going
+1. Preprocessing Data : Done 
+2. Model 1            : In Progress
+3. Model 2            : In Progress
+4. Augmentasi Data    : On Going
