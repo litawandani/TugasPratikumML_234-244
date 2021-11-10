@@ -27,5 +27,5 @@ Dataset yang digunakan merupakan dataset citra MRI dengan judul "Alzheimer's Dat
 ### Status Project
 1. Preprocessing Data : Done 
 2. Model 1            : Done
-3. Model 2            : In Progress
+3. Model 2            : Done
 4. Augmentasi Data    : Done
