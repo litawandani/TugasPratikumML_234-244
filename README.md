@@ -20,6 +20,8 @@ Dataset yang digunakan merupakan dataset citra MRI dengan judul "Alzheimer's Dat
 2. Verry Mild Demented: 2240 gambar
 3. Moderate Demented: 64 gambar 
 4. Mild Demented: 896 gambar
+
+
 Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah data setelah dibagi menjadi 5119 train, 1215 val, dan 66 test
 
 ### Prepocessing
@@ -29,7 +31,7 @@ Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah
 
 ### Model
 + Model yang digunakan: CNN
-+ Summary model 1: 
+1. Summary model 1: 
 
 Model: "sequential_1"
 _______________________
@@ -77,8 +79,9 @@ Trainable params: 24,071,876
 Non-trainable params: 896
 _______________________
 None
++ Akurasi: 48%
 
-+ Summary model 2:
+2. Summary model 2:
 
 Model: "sequential"
 _______________________
@@ -128,6 +131,7 @@ Trainable params: 11,927,748
 Non-trainable params: 224
 _______________________
 None
++ Akurasi:
 
 ### Library
 + Tensorflow
