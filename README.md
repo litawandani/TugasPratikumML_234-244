@@ -94,3 +94,5 @@ Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah
 2. Model 1            : Done
 3. Model 2            : Done
 4. Augmentasi Data    : Done
+5. Pretrained Model   : Done
+6. Model Deployment   : Done
