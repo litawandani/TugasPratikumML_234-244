@@ -88,6 +88,7 @@ Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah
 + Keras
 + Matplotlib
 + Numpy
++ OpenCV
 
 ### Status Project
 1. Preprocessing Data : Done 
