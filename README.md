@@ -83,6 +83,18 @@ Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah
 
 ![report 2](https://user-images.githubusercontent.com/49244704/145958754-dad1f666-7428-4f59-bf2a-6faa6c5773e3.PNG)
 
+#### Tampilan awal Deployment
+
+![www](https://user-images.githubusercontent.com/49264864/147601792-a9be94f9-7ba0-4d37-9eca-a13a164a1ca5.jpg)
+
+#### Tampilan Hasil Prediksi Beserta Nilai Confidence
+
+![www](https://user-images.githubusercontent.com/49264864/147602001-3767a86e-0a4f-472c-a2b1-3a737c196bb9.jpg)
+
+#### Hasil Prediksi Model terbaik dan Waktu Prediksi
+
+![www](https://user-images.githubusercontent.com/49264864/147602137-bfc3d512-cb9a-4b96-8a2f-b804e2da8c43.jpg)
+
 ### Library
 + Tensorflow
 + Keras
