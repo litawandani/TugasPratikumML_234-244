@@ -1,5 +1,5 @@
-# TugasPratikumML_234-244
-# Klasifikasi Alzheimer's Berdasarkan Hasil MRI Menggunakan Convolutional Neural Networks
+# Mchibne Learning 234-244
+# Klasifikasi Alzheimer's Berdasarkan Citra MRI Menggunakan Convolutional Neural Networks
 
 ### Team:
 + Andhika Dwija Bagaskara_201810370311234
@@ -106,6 +106,7 @@ Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah
 1. Preprocessing Data : Done 
 2. Model 1            : Done
 3. Model 2            : Done
-4. Augmentasi Data    : Done
-5. Pretrained Model   : Done
-6. Model Deployment   : Done
+4. Model 3            : Done
+5. Augmentasi Data    : Done
+6. Pretrained Model   : Done
+7. Model Deployment   : Done
