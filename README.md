@@ -54,35 +54,41 @@ Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah
 
 ![summary 1](https://user-images.githubusercontent.com/49244704/145957141-0f1f8d2b-50bb-496a-81ea-5ca0328980e6.PNG)
 
-#### Akurasi
+#### Akurasi dan Loss
 
-![acc 1](https://user-images.githubusercontent.com/49244704/145958043-b12d30f2-12c0-47d9-ad97-148122eea7fe.PNG)
-
-#### Loss
-
-![loss 2](https://user-images.githubusercontent.com/49244704/145958105-242500b6-0d31-4862-8b38-088484a47707.PNG)
+![Model 1 akurasi](https://user-images.githubusercontent.com/49244704/151637382-127b96b6-a7cb-4fa6-9e4b-e59b3ac1cf24.png)
 
 #### Classification Report
 
-![report 1](https://user-images.githubusercontent.com/49244704/145958285-3359ded9-d4f9-4c63-bc91-f794e69118d6.PNG)
+![Model 1 report](https://user-images.githubusercontent.com/49244704/151637468-1d5f63af-48e6-475d-b711-2bec839171ea.png)
 
-### Model 2 (CNN + VGG16)
+### Model 2 (CNN + VGG19)
 #### Summary
 
 ![summary 2](https://user-images.githubusercontent.com/49244704/145958511-2c481a75-db12-4002-b055-36989eac5f52.PNG)
 
-#### Akurasi
+#### Akurasi dan Loss
 
-![Capture](https://user-images.githubusercontent.com/49244704/145958609-7da9084b-a20e-4dc6-929a-d0888a4e8fca.PNG)
-
-#### Loss
-
-![mode loss 2](https://user-images.githubusercontent.com/49244704/145958665-bc38dac0-0436-4e84-b1c0-11923a83f0e7.PNG)
+![model 2 akurasi](https://user-images.githubusercontent.com/49244704/151637506-90c12de2-4f98-45a5-9a1e-6e0e021a59bd.png)
 
 #### Classification Report
 
-![report 2](https://user-images.githubusercontent.com/49244704/145958754-dad1f666-7428-4f59-bf2a-6faa6c5773e3.PNG)
+![model 2 report](https://user-images.githubusercontent.com/49244704/151637535-c28b5c04-3b33-4784-b813-5e9271a7663a.png)
 
+### Model 3 (CNN + Inception-V3)
+#### Summary
+
+![summary3](https://user-images.githubusercontent.com/49244704/151637617-f29b8f69-a05d-4366-87be-e4898f504f81.PNG)
+
+#### Akurasi dan Loss
+
+![model 3 akurasi](https://user-images.githubusercontent.com/49244704/151637662-6c2e321a-c875-4129-944d-57f020991d6e.png)
+
+#### Classification Report
+
+![model 3 report](https://user-images.githubusercontent.com/49244704/151637680-e1b9a2ff-84e0-4d6e-a213-db83fef5291c.png)
+
+### Deployment
 #### Tampilan awal Deployment
 
 ![www](https://user-images.githubusercontent.com/49264864/147601792-a9be94f9-7ba0-4d37-9eca-a13a164a1ca5.jpg)
