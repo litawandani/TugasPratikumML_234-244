@@ -1,4 +1,4 @@
-# Mchibne Learning 234-244
+# Machine Learning 234-244
 # Klasifikasi Alzheimer's Berdasarkan Citra MRI Menggunakan Convolutional Neural Networks
 
 ### Team:
@@ -49,7 +49,7 @@ Dataset dibagi menjadi data train, val, test dengan perbandingan 80:19:1. Jumlah
 +  Class: Categorical
 +  Learning Rate: 0.001
 
-### Model 1 (CNN + Inception V3)
+### Model 1 (Base CNN)
 #### Summary
 
 ![summary 1](https://user-images.githubusercontent.com/49244704/145957141-0f1f8d2b-50bb-496a-81ea-5ca0328980e6.PNG)
